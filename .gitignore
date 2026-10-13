@@ -1,0 +1,9 @@
+/target
+**/*.rs.bk
+*.step
+*.glb
+*.stl
+
+# Reference-only material (separate git repos: SMLib docs + solidcraft reference).
+# Not part of this project; never pushed.
+/Reference/
